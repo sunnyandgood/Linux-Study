@@ -1,1 +1,1 @@
-# Ubuntu装机
+# CentOs7装机
